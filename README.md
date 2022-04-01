@@ -6,4 +6,5 @@ Pokušaj pokušaja pravljenja sajta 101
 
 
 -[x] sajt namešten nije
+
 -[ ] sajt je skoro završen
