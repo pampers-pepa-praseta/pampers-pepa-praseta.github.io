@@ -1,5 +1,3 @@
-# Pepsi Papuce
-
 Hello wrld c:
 
 Welcome to my personal ventures!
